@@ -134,9 +134,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>
-
-
+![](p2.jpg)
 </br>
 
 
