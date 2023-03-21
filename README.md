@@ -27,9 +27,11 @@ Step 5: Display the image until the key to close the window is pressed.
 ```
 
 ## Program:
-``` Python
+Python
+```
 ### Developed By:J RAKSHITHA DEVI
 ### Register No: 212221230082
+```
 
 ## i) Write the frame as JPG file
 
