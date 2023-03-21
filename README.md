@@ -137,14 +137,12 @@ cv2.destroyAllWindows()
 ![image](https://user-images.githubusercontent.com/94165326/226581923-29d10850-055a-4bbc-910c-736f3984ad52.png)
 
 
-</br>
 
 
 ### ii) Display the video
-</br>
-![image](https://user-images.githubusercontent.com/94165326/226585120-3adbc46e-f506-4f19-b416-d9ea780cece1.png)
 
-</br>
+![image](https://user-images.githubusercontent.com/94165326/226586188-f9559e9f-db98-44f4-891e-b2f3126fc4f1.png)
+
 
 
 ### iii) Display the video by resizing the window
