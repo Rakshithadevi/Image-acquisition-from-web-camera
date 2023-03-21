@@ -32,6 +32,7 @@ Step 5: Display the image until the key to close the window is pressed.
 ### Register No: 212221230082
 
 ## i) Write the frame as JPG file
+
 ```
 import cv2
 obj = cv2.VideoCapture(0)
@@ -49,6 +50,7 @@ cv2.destroyAllWindows()
 
 
 ## ii) Display the video
+
 ```
 import cv2
 object=cv2.VideoCapture(0)
@@ -65,6 +67,7 @@ cv2.destroyAllWindows()
 
 
 ## iii) Display the video by resizing the window
+
 ```
 import numpy as np
 import cv2
@@ -93,6 +96,7 @@ cv2.destroyAllWindows()
 
 
 ## iv) Rotate and display the video
+
 ```
 import numpy as np
 import cv2
@@ -125,7 +129,6 @@ cv2.destroyAllWindows()
 
 
 
-```
 ## Output
 
 ### i) Write the frame as JPG image
